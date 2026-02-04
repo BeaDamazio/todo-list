@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+li {
+  cursor: pointer;
+}
+
+.concluida {
+  text-decoration: line-through;
+  color: gray;
+}
